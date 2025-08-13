@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alfred Ayilara Pur</h1>
-<h3 align="center">A passionate Full-stack developer from Nigeria</h3>
+<h3 align="center">I'm on a mission to put Africa on the global map of Tech Innovations. A programmer, Product Manager, and Start Up founder.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alfredpur&label=Profile%20views&color=0e75b6&style=flat" alt="alfredpur" /> </p>
 
